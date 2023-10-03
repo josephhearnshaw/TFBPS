@@ -1,5 +1,5 @@
 # TFBSP
-A TFBSP script that will work for basic predictions and only on positive strands (needs work)
+A TFBSP script that will work for basic predictions and only on positive strands
 
 # How to use?
 
